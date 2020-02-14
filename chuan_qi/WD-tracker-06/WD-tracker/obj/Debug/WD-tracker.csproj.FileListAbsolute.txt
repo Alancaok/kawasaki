@@ -1,0 +1,104 @@
+D:\VS Sample PJ\WD-tracker\WD-tracker\bin\Debug\WD-tracker.exe.config
+D:\VS Sample PJ\WD-tracker\WD-tracker\bin\Debug\WD-tracker.exe
+D:\VS Sample PJ\WD-tracker\WD-tracker\bin\Debug\WD-tracker.pdb
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD-tracker.csprojAssemblyReference.cache
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.cache
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD-tracker.csproj.CoreCompileInputs.cache
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD-tracker.exe
+D:\VS Sample PJ\WD-tracker\WD-tracker\obj\Debug\WD-tracker.pdb
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\bin\Debug\WD-tracker.exe.config
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\obj\Debug\WD-tracker.exe
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\obj\Debug\WD-tracker.pdb
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\obj\Debug\WD-tracker.csprojResolveAssemblyReference.cache
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\bin\Debug\WD-tracker.exe
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker\WD-tracker\bin\Debug\WD-tracker.pdb
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\bin\Debug\WD-tracker.exe.config
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\bin\Debug\WD-tracker.exe
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\bin\Debug\WD-tracker.pdb
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.cache
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\obj\Debug\WD-tracker.csproj.CoreCompileInputs.cache
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\obj\Debug\WD-tracker.exe
+D:\VS Sample PJ\WD-tracker-02\WD-tracker\obj\Debug\WD-tracker.pdb
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\bin\Debug\WD-tracker.exe.config
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\bin\Debug\WD-tracker.exe
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\bin\Debug\WD-tracker.pdb
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\obj\Debug\WD-tracker.exe
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\obj\Debug\WD-tracker.pdb
+H:\维德开发\laser scaner\焊缝追踪\WD-tracker-04\WD-tracker\obj\Debug\WD-tracker.csprojResolveAssemblyReference.cache
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\bin\Debug\WD-tracker.exe.config
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\bin\Debug\WD-tracker.exe
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\bin\Debug\WD-tracker.pdb
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD-tracker.csproj.CoreCompileInputs.cache
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD-tracker.exe
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD-tracker.pdb
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-05\WD-tracker\obj\Debug\WD-tracker.csprojResolveAssemblyReference.cache
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe.config
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.pdb
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.CoreCompileInputs.cache
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.exe
+D:\wintech\laser scaner\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.pdb
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe.config
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.pdb
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csprojAssemblyReference.cache
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.cache
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.CoreCompileInputs.cache
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.exe
+C:\Users\Leff\Desktop\维德\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.pdb
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe.config
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.pdb
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.cache
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.CoreCompileInputs.cache
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.exe
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.pdb
+C:\Users\Leff\Desktop\维德 - 副本\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.UserControl1.resources
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe.config
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.exe
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.pdb
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.pdb
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csprojResolveAssemblyReference.cache
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.UserControl1.resources
+E:\出差\焊接\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe.config
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.exe
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.pdb
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csprojResolveAssemblyReference.cache
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.UserControl1.resources
+D:\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe.config
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.exe
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.pdb
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csprojResolveAssemblyReference.cache
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Form1.resources
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.Properties.Resources.resources
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD_tracker.UserControl1.resources
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\obj\Debug\WD-tracker.csproj.GenerateResource.Cache
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.exe
+D:\c#项目\新建文件夹\发那科\焊缝跟踪\WD-tracker-06\WD-tracker\bin\Debug\WD-tracker.pdb
